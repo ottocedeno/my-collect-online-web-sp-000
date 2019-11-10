@@ -7,4 +7,4 @@ def my_collect(collection)
   return new_collection
 end
 
-names = ["Otto", "Charlotte", "indy"]
+names = ["Otto", "Charlotte", "Indy"]
