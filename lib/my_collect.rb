@@ -6,3 +6,5 @@ def my_collect(collection)
   end
   return new_collection
 end
+
+names = ["Otto", "Charlotte", "indy"]
