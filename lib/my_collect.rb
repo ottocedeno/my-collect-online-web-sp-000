@@ -8,3 +8,5 @@ def my_collect(collection)
 end
 
 names = ["Otto", "Charlotte", "Indy"]
+
+my_collect(names)
