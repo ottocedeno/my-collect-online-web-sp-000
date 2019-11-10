@@ -9,4 +9,4 @@ end
 
 names = ["Otto", "Charlotte", "Indy"]
 
-my_collect(names) {|name| name.upcase}
+my_collect(names) {|name| name.upcase}.inspect
