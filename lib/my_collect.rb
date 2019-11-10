@@ -4,4 +4,5 @@ def my_collect(collection)
   while i < collection.length
     new_collection << yield(collection[i])
   end
+  return new_collection
 end
