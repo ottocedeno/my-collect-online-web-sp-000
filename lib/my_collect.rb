@@ -10,4 +10,4 @@ end
 
 names = ["Otto", "Charlotte", "Indy"]
 
-print my_collect(names) {|name| name.upcase}
+print my_collect(names) {|name| "Hi there, #{name}!}
